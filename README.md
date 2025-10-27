@@ -1,0 +1,1 @@
+# AI-Crop-Disease-Fullstack-Detection-App
